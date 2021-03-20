@@ -7,7 +7,7 @@ const brand = {
     logoText: 'BetaCore Software',
     projectName: 'Spectrade',
     url: 'betacore.nl',
-    img: '/static/images/logo.svg',
+    img: 'images/logo.svg',
     notifMsg:
       'Donec sit amet nulla sed arcu pulvinar ultricies commodo id ligula.'
   }
